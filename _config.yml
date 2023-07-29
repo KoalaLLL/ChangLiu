@@ -11,9 +11,9 @@ title                    : "Chang Liu"
 title_separator          : "-"
 name                     : &name "Chang Liu"
 description              : &description "Currently visiting student at MIT SENSEable City Lab | Ph.D. candidate at UNSW Sydney"
-url                      : https://ChangLiu_phd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ChangLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KoalaLLL/ChangLiu_phd.github.io"
+repository               : "KoalaLLL/ChangLiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
