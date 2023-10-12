@@ -3,8 +3,8 @@ title: "Undergraduate Course"
 collection: teaching
 type: "Tutor/Demonstrator"
 permalink: /teaching/undergraduate_course
-venue: "University of New South Wales, since"
-date: 2018-07-01
+venue: "University of New South Wales"
+date: 2022-10-01
 location: "Sydney, Australia"
 ---
 
