@@ -1,10 +1,10 @@
 ---
-title: "Undergraduate course"
+title: "Undergraduate Course"
 collection: teaching
 type: "Tutor/Demonstrator"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/undergraduate_course
 venue: "University of New South Wales"
-date: 2023-01-01
+# date: 2023-01-01
 location: "Sydney, Australia"
 ---
 
