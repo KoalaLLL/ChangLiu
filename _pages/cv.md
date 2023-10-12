@@ -72,21 +72,16 @@ Honors and Awards
 Service and Leadership
 ======
 * May 2023 – present: Board Member
-  * Young & Emerging Professionals Committee
-    Geospatial Council of Australia
+  * Young & Emerging Professionals Committee, Geospatial Council of Australia
 * June 2022 – Sept. 2023: Vice-President
-  * Civil and Environmental Engineering Research Student Association
-    University of New South Wales, Sydney
+  * Civil and Environmental Engineering Research Student Association, University of New South Wales, Sydney
 * 2022: Group leader
-  * Professional Development Program
-    University of New South Wales, Sydney
+  * Professional Development Program, University of New South Wales, Sydney
 * 2022: Volunteer
-  * Higher Degree Research Student Welcome Event
-    University of New South Wales, Sydney
+  * Higher Degree Research Student Welcome Event, University of New South Wales, Sydney
 * 2019 – 2022: Conference volunteer
   * 2022: SSSI NSW Regional Conference, Australia
   * Nov. 2019: SIGGRAPH Asia Conference, Brisbane, Australia
 * Nov. 2019: Women in Engineering Ambassador, Build EXPO 2019, Australia
 * Aug. 2014 – Sept. 2015: Head of Organization Department
-  * Student Union of Department of Civil and Resources Engineering
-    University of Science and Technology Beijing
+  * Student Union of Department of Civil and Resources Engineering, University of Science and Technology Beijing
