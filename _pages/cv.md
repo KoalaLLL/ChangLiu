@@ -41,7 +41,7 @@ Skills
 * Programming/OS
   * Python, MATLAB, Docker, Linux Ubuntu, LaTeX
 * Artificial Intelligence
-  * Deep Learning, Semantic Segmentation, Computer vision
+  * Deep Learning, Semantic Segmentation, Computer Vision
 * Data processing
   * Satellite image processing (e.g., Sentinel 1&2, LandSat), Lidar data processing, InSAR, Nightlight remote sensing, Land Surface Temperature 
 * Software/Tools
@@ -66,7 +66,7 @@ Talks
   * Convenor: A/Prof. Samad Sepasgozar
 * 2021: Post-Disaster Classification of Building Damage Using Transfer Learning
   * IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (online)
-* Analysis of Five Edge Detection Algorithms for Panel Defect Detection
+* 2018: Analysis of Five Edge Detection Algorithms for Panel Defect Detection
   * 1st International Conference on 3D Construction Printing (online)
 
 Honors and Awards
@@ -84,7 +84,7 @@ Honors and Awards
 Service and Leadership
 ======
 * May 2023 – present: **Board Member**, Young & Emerging Professionals Committee, Geospatial Council of Australia
-* June 2022 – Sept. 2023: **Vice-President**, Civil and Environmental Engineering Research Student Association, University of New South Wales, Sydney, Australia
+* June 2022 – Sept. 2023: **Vice President**, Civil and Environmental Engineering Research Student Association, University of New South Wales, Sydney, Australia
 * 2022: **Group leader**, Professional Development Program, University of New South Wales, Sydney, Australia
 * 2022: **Volunteer**, Higher Degree Research Student Welcome Event, University of New South Wales, Sydney, Australia
 * 2019 – 2022: **Conference volunteer**
