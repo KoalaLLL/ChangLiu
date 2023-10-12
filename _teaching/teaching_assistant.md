@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching_assistant
 venue: "University of New South Wales"
-# date: 2021-10-02
+date: 2022-01-02
 location: "Sydney, Australia"
 ---
 * Program of 2022, Supervisor: Prof. Linlin Ge
