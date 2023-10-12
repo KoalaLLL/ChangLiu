@@ -40,12 +40,16 @@ Skills
   * English, Mandarin Chinese (Native)
 * Programming/OS
   * Python, MATLAB, Docker, Linux Ubuntu, LaTeX
+* Artificial Intelligence
+  * Deep Learning, Semantic Segmentation, Computer vision
+* Data processing
+  * Satellite image processing (e.g., Sentinel 1&2, LandSat), Lidar data processing, InSAR, Nightlight remote sensing, Land Surface Temperature 
 * Software/Tools
   * ENVI, ArcGIS, Google Earth Pro, Nvivo, Gephi
 * Hardware
   * Lidar Drone, Raspberry Pi
 
-Selected Publications
+Selected Journal Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -53,9 +57,17 @@ Selected Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2023: AI-Based Classification of Post-Disaster Building Damage with Remote Sensing Data
+  * GeoPitch Competition, IEEE Geoscience and Remote Sensing Society, Pasadena, USA
+* 2022: Building damage estimation after natural disaster using multi satellite source data based on machine learning
+  * SmartSat CRC Conference, Sydney, Australia
+* 2020 & 2021: Implementation of Artificial Intelligence for Detecting Modular Objects in Construction Risk Management
+  * Guest speaker, Risk Management Course, UNSW Sydney, Australia
+  * Convenor: A/Prof. Samad Sepasgozar
+* 2021: Post-Disaster Classification of Building Damage Using Transfer Learning
+  * IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (online)
+* Analysis of Five Edge Detection Algorithms for Panel Defect Detection
+  * 1st International Conference on 3D Construction Printing (online)
 
 Honors and Awards
 ======
@@ -71,17 +83,12 @@ Honors and Awards
 
 Service and Leadership
 ======
-* May 2023 – present: Board Member
-  * Young & Emerging Professionals Committee, Geospatial Council of Australia
-* June 2022 – Sept. 2023: Vice-President
-  * Civil and Environmental Engineering Research Student Association, University of New South Wales, Sydney
-* 2022: Group leader
-  * Professional Development Program, University of New South Wales, Sydney
-* 2022: Volunteer
-  * Higher Degree Research Student Welcome Event, University of New South Wales, Sydney
-* 2019 – 2022: Conference volunteer
+* May 2023 – present: **Board Member**, Young & Emerging Professionals Committee, Geospatial Council of Australia
+* June 2022 – Sept. 2023: **Vice-President**, Civil and Environmental Engineering Research Student Association, University of New South Wales, Sydney, Australia
+* 2022: **Group leader**, Professional Development Program, University of New South Wales, Sydney, Australia
+* 2022: **Volunteer**, Higher Degree Research Student Welcome Event, University of New South Wales, Sydney, Australia
+* 2019 – 2022: **Conference volunteer**
   * 2022: SSSI NSW Regional Conference, Australia
   * Nov. 2019: SIGGRAPH Asia Conference, Brisbane, Australia
-* Nov. 2019: Women in Engineering Ambassador, Build EXPO 2019, Australia
-* Aug. 2014 – Sept. 2015: Head of Organization Department
-  * Student Union, Department of Civil and Resources Engineering, University of Science and Technology Beijing
+* Nov. 2019: **Women in Engineering Ambassador**, Build EXPO 2019, Australia
+* Aug. 2014 – Sept. 2015: **Head of Organization Department**, Student Union, Department of Civil and Resources Engineering, University of Science and Technology Beijing
