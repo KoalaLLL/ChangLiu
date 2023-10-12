@@ -15,7 +15,7 @@ Education
 * M.Phil. in Construction Management, University of New South Wales, Sydney, 2020
 * B.E. in Civil Engineering, University of Science and Technology Beijing, 2017
 
-Work experience
+Work Experience
 ======
 * July 2018 – present: Tutor/Demonstrator
   * University of New South Wales, Sydney
@@ -84,4 +84,4 @@ Service and Leadership
   * Nov. 2019: SIGGRAPH Asia Conference, Brisbane, Australia
 * Nov. 2019: Women in Engineering Ambassador, Build EXPO 2019, Australia
 * Aug. 2014 – Sept. 2015: Head of Organization Department
-  * Student Union of Department of Civil and Resources Engineering, University of Science and Technology Beijing
+  * Student Union, Department of Civil and Resources Engineering, University of Science and Technology Beijing
