@@ -57,7 +57,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Honors and Aards
+Honors and Awards
 ======
 * Sept. 2022: Best Ph.D. Poster, Smart Satellite Cooperative Research Center (SmartSat CRC) Conference, Australia
 * Aug. 2022: Female Ph.D. Personal Development Grant, SmartSat CRC, Australia
