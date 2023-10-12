@@ -2,9 +2,9 @@
 title: "Postgradute Course"
 collection: teaching
 type: "Tutor/Demonstrator"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/postgraduate_course
 venue: "University of New South Wales"
-date: 2023-01-02
+# date: 2023-01-02
 location: "Sydney, Australia"
 ---
 * Remote Sensing & Photogrammetry (Term 3, 2022)
