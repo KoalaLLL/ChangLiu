@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Postgradute Course"
 collection: teaching
-type: "Workshop"
+type: "Tutor/Demonstrator"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of New South Wales"
+date: 2023-01-02
+location: "Sydney, Australia"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Remote Sensing & Photogrammetry (Term 3, 2022)
+  * Preparing teaching materials including solutions and slides: ArcMap operation, DInSAR software operation, band composition, bushfire hotspot detection, and flood mapping with SAR intensity information.
+  * Delivering lectures in weekly in-person and online lab sessions.
+  * Grading written assignments and final exams.
