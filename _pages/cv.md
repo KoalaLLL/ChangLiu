@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -56,25 +56,37 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Honors and Aards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Sept. 2022: Best Ph.D. Poster, Smart Satellite Cooperative Research Center (SmartSat CRC) Conference, Australia
+* Aug. 2022: Female Ph.D. Personal Development Grant, SmartSat CRC, Australia
+* May 2022 – May 2023: Development and Research Training Grant, University of New South Wales, Sydney, Australia
+* 2020 - 2023: Ph.D. Full Scholarship, SmartSat CRC, Australia
+* 2020 - 2023: Tuition Fee Scholarship, University of New South Wales, Sydney, Australia
+* 2020: Summer School Outstanding Participant, Wuhan University, China
+* 2017: Outstanding Graduate Class of 2017, University of Science and Technology Beijing
+* 2013 - 2017: Academic Scholarship, University of Science and Technology Beijing
+* 2016: Second Place Award, National Undergraduate Entrepreneurship Competition, Beijing Division, Beijing Municipal Education, China
+
+Service and Leadership
 ======
-* May 2023 – present:Board Member, Young & Emerging Professionals Committee
+* May 2023 – present: Board Member
+  * Young & Emerging Professionals Committee
   * Geospatial Council of Australia
-* June 2022 – Sept. 2023: Vice-President, Civil and Environmental Engineering Research Student Association
+* June 2022 – Sept. 2023: Vice-President
+  * Civil and Environmental Engineering Research Student Association
   * University of New South Wales, Sydney
-* 2022: Group leader, Professional Development Program
+* 2022: Group leader
+  * Professional Development Program
   * University of New South Wales, Sydney
-* 2022: Volunteer, Higher Degree Research Student Welcome Event
+* 2022: Volunteer
+  * Higher Degree Research Student Welcome Event
   * University of New South Wales, Sydney
-* 2022: Conference volunteer, SSSI NSW Regional Conference, Australia
-* Nov. 2019: Conference Volunteer, SIGGRAPH Asia Conference
+* 2019 – 2022: Conference volunteer
+  * 2022: SSSI NSW Regional Conference, Australia
+  * Nov. 2019: SIGGRAPH Asia Conference, Brisbane, Australia
 * Nov. 2019: Women in Engineering Ambassador, Build EXPO 2019, Australia
-* Aug. 2014 – Sept. 2015: Head of Organization Department, Student Union of Department of Civil and Resources Engineering
+* Aug. 2014 – Sept. 2015: Head of Organization Department
+  * Student Union of Department of Civil and Resources Engineering
   * University of Science and Technology Beijing
