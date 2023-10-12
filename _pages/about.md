@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -13,5 +13,5 @@ I am Chang Liu. I am currently a visiting student at Massachusetts Institute of 
 My research focused on the application of artificial intelligence (AI) in geospatial engineering and remote sensing for natural disaster-related research and have been keeping up to date with the development of state-of-the-art technologies in the discipline. Semantic segmentation models for post-disaster building damage assessment with both two-dimensional and three-dimensional data have been proposed with codes written in Python.
 
 Other official webpages introducing my research:
-* [UNSW personal website] (https://www.unsw.edu.au/staff/chang-liu)
-* [SmartSat CRC personal website] (https://smartsatcrc.com/students/chang-liu/)
+* [UNSW personal website](https://www.unsw.edu.au/staff/chang-liu)
+* [SmartSat CRC personal website](https://smartsatcrc.com/students/chang-liu/)
