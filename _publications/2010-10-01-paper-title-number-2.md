@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper aims to propose and evaluate a novel deep learning model to classify building damage into four levels quickly with in-house labelled damaged building information.'
 date: 2022-04-01
 venue: 'Expert Systems with Applications'
-paperurl: ''
+# paperurl: ''
 # citation: ''
 ---
 
