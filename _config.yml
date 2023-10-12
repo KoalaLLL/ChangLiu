@@ -11,9 +11,9 @@ title                    : "Chang Liu"
 title_separator          : "-"
 name                     : &name "Chang Liu"
 description              : &description "Currently visiting student at MIT SENSEable City Lab | Ph.D. candidate at UNSW Sydney"
-url                      : https://ChangLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ChangLiu_CV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KoalaLLL/ChangLiu.github.io"
+repository               : "ChangLiu"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -177,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:teaching/:path/
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:publication/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:portfolio/:path/
+    permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:talks/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
