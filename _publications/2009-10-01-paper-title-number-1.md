@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper aims to present an unsupervised forest height estimation method called Dielectric Fluctuation and Random Motion over Ground (DF-RMoG) to improve accuracy by considering the dielectric fluctuations and random motions.'
 date: 2023-03-31
 venue: 'Remote Sensing'
-paperurl: '
+paperurl: ''
 citation: ''
 ---
 [Download paper here](https://www.mdpi.com/2072-4292/15/7/1877)
