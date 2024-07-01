@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D, University of New South Wales, Sydney, Feb 2024 (expected)
-* M.Phil. in Construction Management, University of New South Wales, Sydney, 2020
-* B.E. in Civil Engineering, University of Science and Technology Beijing, 2017
+* Ph.D, University of New South Wales, Sydney, Feb 2024
+* M.Phil. in Construction Management, University of New South Wales, Sydney, Jan 2020
+* B.E. in Civil Engineering, University of Science and Technology Beijing, June 2017
 
 Work Experience
 ======
 * July 2018 – present: Tutor/Demonstrator
   * University of New South Wales, Sydney
+    
+    * Postgraduate Course： Construction Planning and Control (Term 1, 2024)
     * Postgraduate Course： Remote Sensing & Photogrammetry (Term 3, 2022)
+      
+    * Undergraduate Course： Construction Planning (Term 1, 2024)
     * Undergraduate Course： Principles of Remote Sensing (Term 3, 2022)
     * Undergraduate Course： Engineering Computation (Term 2, 2021)
     * Undergraduate Course： Building Structures (Semester 2, 2018)
@@ -28,7 +32,7 @@ Work Experience
 * Fall 2021: Teaching Assistant
   * University of New South Wales, Sydney
   * Undergraduate Taste of Research Program
-  * Duties included: Assisted in interviewing students who apply for this program; Assisted supervising undergraduate students to have a basic understanding of research.
+  * Duties included: Assisted in interviewing students who apply for this program; Assisted in supervising undergraduate students to have a basic understanding of research.
   * Supervisor: Professor Linlin Ge
 
 * Jul. 2018 – Feb. 2020: Research Assistant
@@ -83,6 +87,7 @@ Honors and Awards
 
 Service and Leadership
 ======
+* May 2024: **Board Member**, YEP Committee of Locate24 Conference, Australia
 * May 2023 – present: **Board Member**, Young & Emerging Professionals Committee, Geospatial Council of Australia
 * June 2022 – Sept. 2023: **Vice President**, Civil and Environmental Engineering Research Student Association, University of New South Wales, Sydney, Australia
 * 2022: **Group leader**, Professional Development Program, University of New South Wales, Sydney, Australia
