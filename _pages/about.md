@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 Hi! I am Chang Liu (刘畅).
-I am currently a visiting student at Massachusetts Institute of Technology (MIT) in the United States and a final-year Ph.D. candidate at the University of New South Wales (UNSW), Sydney, Australia.
+I am currently a postdoctoral fellow at Massachusetts Institute of Technology (MIT) in the United States. I completed a Bachelor of Civil Engineering degree at the University of Science and Technology Beijing (USTB), China, and a Master of Philosophy at University of New South Wales (UNSW) Sydney, Australia. Then, I obtained a PhD degree at UNSW Sydney in early 2024. My PhD research was focused on semantic segmentation for damage assessment after natural disasters using artificial intelligence methods with satellite images and LiDAR point cloud. I have published several journal articles and conference papers and received ‘Best Poster’ Award of SmartSat CRC Conference 2022.
 
-I expect to complete my Ph.D. study by February 2024. My dissertation has been submitted and is currently under review.
+My research focused on the application of artificial intelligence (AI) in geospatial engineering and remote sensing for urban-related research, and have been keeping up to date with the development of state-of-the-art technologies in the discipline.
 
-My research focused on the application of artificial intelligence (AI) in geospatial engineering and remote sensing for natural disaster-related research, and have been keeping up to date with the development of state-of-the-art technologies in the discipline. Semantic segmentation models for post-disaster building damage assessment with both two-dimensional and three-dimensional data have been proposed with codes written in Python.
 
 Other official webpages introducing my research:
 * [UNSW personal website](https://www.unsw.edu.au/staff/chang-liu)
