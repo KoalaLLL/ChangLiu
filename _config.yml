@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chang Liu"
 title_separator          : "-"
 name                     : &name "Chang Liu"
-description              : &description "Currently visiting student at MIT SENSEable City Lab | Ph.D. candidate at UNSW Sydney"
+description              : &description "Postdoc at MIT SENSEable City Lab"
 url                      : https://koalalll.github.io/ChangLiu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChangLiu"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chang Liu"
   avatar           : "photo.jpg"
-  bio              : "Ph.D. candidate | Natural disasters | Remote Sensing | Deep learning | Lidar | building damage assessment"
+  bio              : "Ph.D. | Natural disasters | Remote Sensing | Deep learning | Lidar | building damage assessment"
   location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : 
